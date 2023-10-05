@@ -1,4 +1,4 @@
-## Hi and welcome!👩🏻‍💻
+# Hi and welcome!👩🏻‍💻
 
 My name is Lisa, and I'm a M.Sc. student in Data Science and AI at Chalmers University of Technology.
 
@@ -15,7 +15,7 @@ If you want to learn more about me, you can visit my [website](https://lisaelsi.
   🏃🏻‍♀️ Running <br>
   🎙 Podcasts <br>
   🚴🏻‍♀️ Biking <br>
-  📚 Literature <br>
+  📚 Books <br>
 </p>
 
 <h4 align="left">You can connect with me on linkedin:</h4>
