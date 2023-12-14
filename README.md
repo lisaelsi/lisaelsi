@@ -2,7 +2,7 @@
 
 My name is Lisa, and I'm a M.Sc. student in Data Science and AI at Chalmers University of Technology.
 
-I'm currently doing my master thesis, researching machine learning models to aid in drug discovery together with [Dylan](https://github.com/Nalyd1019). 
+I'm currently doing my master thesis, researching machine learning models to aid in drug discovery, together with [Dylan](https://github.com/Nalyd1019). 
 
 If you want to learn more about me, you can visit my [website](https://lisaelsi.github.io/Portfolio/). 
 
